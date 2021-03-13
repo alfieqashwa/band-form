@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Band Form</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -13,7 +13,7 @@ export default function Home() {
           <div>
             <img className="w-auto h-12 mx-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="Workflow" />
             <h2 className="mt-6 text-3xl font-extrabold text-center text-gray-900">
-              Sign in to your account
+              Create your band
             </h2>
             <p className="mt-2 text-sm text-center text-gray-600">
               Or
