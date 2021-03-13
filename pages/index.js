@@ -16,9 +16,9 @@ export default function Home() {
               Create your band
             </h2>
             <p className="mt-2 text-sm text-center text-gray-600">
-              Or
+              And
               <a href="#" className="ml-1 font-medium text-indigo-600 hover:text-indigo-500">
-                start your 14-day free trial
+                show the world your creativity
               </a>
             </p>
           </div>
